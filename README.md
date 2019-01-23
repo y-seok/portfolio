@@ -3,6 +3,6 @@
  안녕하세요!
  
  <ol><li>
-  <a haer=">프로필
+  <a href="profile.html">프로필</a>
 </li>
  
